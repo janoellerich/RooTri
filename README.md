@@ -10,3 +10,13 @@ With the function RooTri(), we present a simple and robust calculation method fo
    - arg4   c of of parameter plane equation, default = 1  
    - arg5   d of of parameter plane equation, default = 0
 3. Execute script, output m x 2 matrix called 'ipmat'
+
+## Cite as
+### MDPI and ACS Style
+Oellerich, J.; Büscher, K.J.; Degel, J.P. RooTri: A Simple and Robust Function to Approximate the Intersection Points of a 3D Scalar Field with an Arbitrarily Oriented Plane in MATLAB. Algorithms 2023, 16, 409. https://doi.org/10.3390/a16090409 
+
+### AMA Style
+Oellerich J, Büscher KJ, Degel JP. RooTri: A Simple and Robust Function to Approximate the Intersection Points of a 3D Scalar Field with an Arbitrarily Oriented Plane in MATLAB. Algorithms. 2023; 16(9):409. https://doi.org/10.3390/a16090409 
+
+### Chicago/Turabian Style
+Oellerich, Jan, Keno Jann Büscher, and Jan Philipp Degel. 2023. "RooTri: A Simple and Robust Function to Approximate the Intersection Points of a 3D Scalar Field with an Arbitrarily Oriented Plane in MATLAB" Algorithms 16, no. 9: 409. https://doi.org/10.3390/a16090409
