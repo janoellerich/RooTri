@@ -15,8 +15,8 @@ With the function RooTri(), we present a simple and robust calculation method fo
 
 ## Cite as
 ### BibTeX
-~~~markdown
-~~~bibtex
+
+```bibtex
 @ARTICLE{OELLERICH2023, 
     AUTHOR = {Oellerich, Jan and Büscher, Keno Jann and Degel, Jan Philipp}, 
     TITLE = {RooTri: A Simple and Robust Function to Approximate the Intersection Points of a 3D Scalar Field with an Arbitrarily Oriented Plane in MATLAB}, 
@@ -30,8 +30,7 @@ With the function RooTri(), we present a simple and robust calculation method fo
     MONTH = {Aug}, 
     PAGES = {409} 
 }
-~~~
-~~~
+```
 
 ### MDPI and ACS Style
 Oellerich, J.; Büscher, K.J.; Degel, J.P. RooTri: A Simple and Robust Function to Approximate the Intersection Points of a 3D Scalar Field with an Arbitrarily Oriented Plane in MATLAB. Algorithms 2023, 16, 409. https://doi.org/10.3390/a16090409 
