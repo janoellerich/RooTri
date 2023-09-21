@@ -22,7 +22,7 @@ With the function RooTri(), we present a simple and robust calculation method fo
     TITLE = {RooTri: A Simple and Robust Function to Approximate the Intersection Points of a 3D Scalar Field with an Arbitrarily Oriented Plane in MATLAB}, 
     VOLUME = {16}, 
     ISSN = {1999-4893}, 
-    DOI={10.3390/a16090409}, 
+    DOI = {10.3390/a16090409}, 
     NUMBER = {9}, 
     JOURNAL = {Algorithms}, 
     PUBLISHER = {MDPI AG}, 
